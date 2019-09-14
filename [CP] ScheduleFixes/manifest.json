@@ -1,0 +1,13 @@
+{
+    "Name": "Stardew Schedule Fixes",
+    "Author": "kfahy",
+    "Version": "1.0.0",
+    "Description": "This ContentPatcher mod fixes schedule bugs present in Stardew Valley v1.3.36",
+    "UniqueID": "kfahy.ScheduleFixes",
+    "MinimumApiVersion": "2.11.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher",
+        "MinimumVersion": "1.9.0"
+    }
+}

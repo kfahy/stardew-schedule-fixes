@@ -1,0 +1,120 @@
+{
+    "Format": "1.9",
+    "Changes": [
+        {
+            "LogName": "Alex",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Alex",
+            "Entries": {
+                "Wed_6": null,
+                "spring_Wed_6": "GOTO season",
+                "summer_Wed_6": "GOTO season",
+                "fall_Wed_6": "GOTO season",
+                "winter_Wed_6": "GOTO season"
+            }
+        },
+        {
+            "LogName": "Demetrius",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Demetrius",
+            "Entries": {
+                "winter_16": "750 ScienceHouse 16 19 2 demetrius_read/1100 ScienceHouse 22 20 1 demetrius_notes/1500 ScienceHouse 7 18 1/1540 Beach 11 32 3 \"Strings\\schedules\\Demetrius:winter_16.000\"/2330 ScienceHouse 19 4 1",
+                "rain": "750 ScienceHouse 16 19 2 demetrius_read/1100 ScienceHouse 22 20 1 demetrius_notes/1500 ScienceHouse 7 18 1/1540 ScienceHouse 22 20 1/1800 ScienceHouse 27 9 0/1920 ScienceHouse 28 9 0/2000 ScienceHouse 15 4 0/2200 ScienceHouse 19 4 1",
+                "summer": "750 ScienceHouse 29 9 0/1100 Town 30 23 1 square_3_9/1900 ScienceHouse 27 9 0/2040 ScienceHouse 28 9 0/2100 ScienceHouse 15 4 0/2230 ScienceHouse 19 4 1",
+                "fall": "750 ScienceHouse 29 9 0/1100 Mountain 45 8 demetrius_notes/1900 ScienceHouse 27 9 0/2040 ScienceHouse 28 9 0/2100 ScienceHouse 15 4 0/2230 ScienceHouse 19 4 1",
+                "spring": "750 ScienceHouse 29 9 0/1100 ScienceHouse 22 20 1 demetrius_notes/1430 Mountain 15 26 1/1530 Mountain 30 36 2/1900 ScienceHouse 27 9 0/2040 ScienceHouse 28 9 0/2100 ScienceHouse 15 4 0/2230 ScienceHouse 19 4 1"
+            }
+        },
+        {
+            "LogName": "Elliott",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Elliott",
+            "Entries": {
+                "Fri6": null,
+                "spring_Fri_6": "GOTO Thu",
+                "summer_Fri_6": "GOTO Thu",
+                "fall_Fri_6": "GOTO Thu",
+                "winter_Fri_6": "GOTO Thu"
+            }
+        },
+        {
+            "LogName": "Haley",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Haley",
+            "Entries": {
+                "Wed_6": null,
+                "spring_Wed_6": "GOTO season",
+                "summer_Wed_6": "GOTO season",
+                "fall_Wed_6": "GOTO season",
+                "winter_Wed_6": "GOTO season"
+            }
+        },
+        {
+            "LogName": "Harvey",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Harvey",
+            "Entries": {
+                "Sat": "700 HarveyRoom 21 7 0/830 ArchaeologyHouse 16 9 0/1500 HarveyRoom 21 7 0 \"Strings\\schedules\\Harvey:Sat.000\"/1630 HarveyRoom 3 4 0/1900 HarveyRoom 8 5 0/2100 HarveyRoom 6 4 0/2200 HarveyRoom 13 4 1"
+            }
+        },
+        {
+            "LogName": "Leah",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Leah",
+            "Entries": {
+                "summer": "900 LeahHouse 3 7 3 leah_sculpt/1200 Beach 48 19 2 leah_draw/1900 LeahHouse 8 5 0/2200 LeahHouse 13 10 2/2400 LeahHouse 2 4 3"
+            }
+        },
+        {
+            "LogName": "Lewis",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Lewis",
+            "Entries": {
+                "fall_9": "800 ManorHouse 8 5 0/1030 Hospital 12 14 0/1330 Hospital 4 6 1 \"Strings\\schedules\\Lewis:fall_9.000\"/1600 ManorHouse 7 5 0 square_5_1_0/2000 ManorHouse 3 6 0/2200 ManorHouse 22 4 1",
+                "winter_Sun": "800 ManorHouse 8 5 0/900 ManorHouse 7 5 0 square_5_1_0/1100 ArchaeologyHouse 22 9 3/1600 ManorHouse 7 5 0 square_5_1_0/2000 ManorHouse 3 6 0/2200 ManorHouse 22 4 1"
+            }
+        },
+        {
+            "LogName": "Maru",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Maru",
+            "Entries": {
+                "Summer_Mon": null,
+                "summer_Mon": "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1310 Town 64 16 3/1830 ScienceHouse 5 6 1 maru_tinker/2300 ScienceHouse 2 4 3",
+                "Summer_Sun": null,
+                "summer_Sun": "800 ScienceHouse 5 6 1 maru_tinker/1000 ScienceHouse 19 18 0/1230 ScienceHouse 7 6 1/1810 ScienceHouse 5 6 1 maru_tinker/2300 ScienceHouse 2 4 3"
+            }
+        },
+        {
+            "LogName": "Penny",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Penny",
+            "Entries": {
+                "winter_4": "900 Trailer 1 8 0 \"Strings\\schedules\\Penny:winter_4.000\"/1130 Hospital 4 17 2 penny_sit_down/1330 Hospital 4 6 1 \"Strings\\schedules\\Penny:winter_4.001\"/1600 Town 75 54 2/1900 Trailer 12 7 0 penny_dishes/2100 Trailer 4 9 1",
+                "9": "NOT friendship Sam 6/900 Trailer 1 8 0/1100 Town 78 95 2/1600 Trailer 12 7 0 penny_dishes/1840 Trailer 4 9 1",
+                "Summer_Sun": null,
+                "summer_Sun": "800 Town 96 18 3/1200 ScienceHouse 8 5 2 penny_sit_down/1800 Trailer 12 7 0 penny_dishes/2100 Trailer 4 9 1"
+            }
+        },
+        {
+            "LogName": "Sebastian",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Sebastian",
+            "Entries": {
+                "15": null,
+                "25": "GOTO 11",
+                "fall": "1030 SebastianRoom 9 4 3 sebastian_computer/1200 Mountain 57 33 1/1430 Mountain 42 13 1 sebastian_smoking/1600 ScienceHouse 27 9 0/1730 SebastianRoom 9 4 3 sebastian_computer/2130 SebastianRoom 11 9 1"
+            }
+        },
+        {
+            "LogName": "Shane",
+            "Action": "EditData",
+            "Target": "Characters/schedules/Shane",
+            "Entries": {
+                "winter_15": "700 AnimalShop 24 15 0/1100 Forest 37 10 2/1500 Beach 20 24 2 \"Strings\\schedules\\Shane:winter_15.000\"/2300 AnimalShop 27 4 1",
+                "summer_Sun": "700 AnimalShop 24 15 0/1100 Forest 37 10 2/1450 AnimalShop 16 13 2/1800 Saloon 21 17 2 shane_drink/2400 AnimalShop 27 4 1",
+                "Sun": "700 AnimalShop 24 15 0/1100 Forest 37 10 2/1450 AnimalShop 16 13 2/1800 Saloon 21 17 2 shane_drink/2400 AnimalShop 27 4 1"
+            }
+        }
+    ]
+}
